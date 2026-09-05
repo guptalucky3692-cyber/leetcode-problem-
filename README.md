@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
 | ------- |
