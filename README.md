@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
 | ------- |
