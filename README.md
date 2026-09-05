@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1672-richest-customer-wealth) |
+| [1773-count-items-matching-a-rule](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0014-longest-common-prefix) |
 | [1528-shuffle-string](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1528-shuffle-string) |
+| [1773-count-items-matching-a-rule](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Trie
 |  |
 | ------- |
