@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## String
 |  |
 | ------- |
