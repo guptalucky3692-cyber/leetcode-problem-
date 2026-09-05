@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0561-array-partition) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0561-array-partition) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
