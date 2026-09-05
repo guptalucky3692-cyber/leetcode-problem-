@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1089-duplicate-zeros) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/guptalucky3692-cyber/git-github.com-guptalucky3692-cyber-leetcode/tree/master/1089-duplicate-zeros) |
 ## Matrix
 |  |
 | ------- |
